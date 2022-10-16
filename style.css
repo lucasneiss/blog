@@ -1,0 +1,29 @@
+body {
+  background-color: #F5EFE6;
+}
+
+.texto {
+  font-family: 'Poppins', sans-serif;
+ 
+
+}
+
+main {
+  padding: 0 2em;
+}
+
+
+
+.dieta {
+  position: relative;
+  width: 45%;
+  height: 100%;
+  left: 30%;
+}
+
+.sorriso {
+  padding-right: 0% !important;
+  margin-right: 0% !important;
+  width: 90%;
+  padding-left: 0%;
+}
